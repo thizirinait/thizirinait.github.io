@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>https://kdaudel.github.io/</link>
+      <atom:link href="https://kdaudel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description> </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2022 </copyright><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
+      <title> </title>
+      <link>https://kdaudel.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/bayesforhealth2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/bayesforhealth2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/cirm2022fusion/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/cirm2022fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/crism2022/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/crism2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics</title>
+      <link>https://kdaudel.github.io/publication/dbsd2022/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/dbsd2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/ulondonims21/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/ulondonims21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/liverpool21/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/liverpool21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/rcd/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/rcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/agro2021/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/agro2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/guestlecture2021/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/guestlecture2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/statml2021/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/statml2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/neurips2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/neurips2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/oxcsml19nov21/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/oxcsml19nov21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/bristol0110/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/bristol0110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/cirm/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/cirm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/eurecom1609/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/eurecom1609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/mcm2021/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/mcm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotonic Alpha-divergence Minimisation for Variational Inference</title>
+      <link>https://kdaudel.github.io/publication/fei/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/fei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture weights optimisation for Alpha-Divergence Variational Inference</title>
+      <link>https://kdaudel.github.io/publication/renyi_descent/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/renyi_descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite-dimensional gradient-based descent for alpha-divergence minimisation</title>
+      <link>https://kdaudel.github.io/publication/alphagammadescent/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/alphagammadescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/mpseminar/</link>
+      <pubDate>Mon, 07 Dec 2020 22:51:18 +0100</pubDate>
+      <guid>https://kdaudel.github.io/talk/mpseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/viseminar/</link>
+      <pubDate>Tue, 24 Nov 2020 22:51:18 +0100</pubDate>
+      <guid>https://kdaudel.github.io/talk/viseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/mcqmc2020/</link>
+      <pubDate>Mon, 10 Aug 2020 22:51:18 +0100</pubDate>
+      <guid>https://kdaudel.github.io/talk/mcqmc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/bayescomp/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/bayescomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/workshoptsp/</link>
+      <pubDate>Fri, 22 Nov 2019 22:51:18 +0100</pubDate>
+      <guid>https://kdaudel.github.io/talk/workshoptsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
