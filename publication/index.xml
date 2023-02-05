@@ -3,46 +3,23 @@
   <channel>
     <title>Publications |  </title>
     <link>https://kdaudel.github.io/publication/</link>
-      <atom:link href="https://kdaudel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://thizirinait.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2022 </copyright><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Thiziri Nait Saada 2023 </copyright><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
+      <url>https://thizirinait.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://kdaudel.github.io/publication/</link>
+      <link>https://thizirinait.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics</title>
-      <link>https://kdaudel.github.io/publication/dbsd2022/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/dbsd2022/</guid>
+      <title>On the Initialisation of Wide Low-Rank Feedforward Neural Networks</title>
+      <link>https://thizirinait.github.io/publication/EOC-lowrank-2023/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/EOC-lowrank-2023/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Monotonic Alpha-divergence Minimisation for Variational Inference</title>
-      <link>https://kdaudel.github.io/publication/fei/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/fei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixture weights optimisation for Alpha-Divergence Variational Inference</title>
-      <link>https://kdaudel.github.io/publication/renyi_descent/</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/renyi_descent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Infinite-dimensional gradient-based descent for alpha-divergence minimisation</title>
-      <link>https://kdaudel.github.io/publication/alphagammadescent/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/alphagammadescent/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
