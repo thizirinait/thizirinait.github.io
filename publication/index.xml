@@ -11,6 +11,14 @@
       <title>Publications</title>
       <link>https://thizirinait.github.io/publication/</link>
     </image>
+
+    <item>
+      <title>Beyond IID weights: low-rank and sparse Neural Networks are also Gaussian Processes</title>
+      <link>https://thizirinait.github.io/publication/pseudo-iid/</link>
+      <pubDate>Thu, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/pseudo-iid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Initialisation of Wide Low-Rank Feedforward Neural Networks</title>
