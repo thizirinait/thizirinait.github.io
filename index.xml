@@ -12,10 +12,19 @@
       <link>https://thizirinait.github.io/</link>
     </image>
 
+    
+    <item>
+      <title>A simple proof for the almost sure convergence of the largest singular value of a product of Gaussian matrices</title>
+      <link>https://thizirinait.github.io/publication/simple-proof/</link>
+      <pubDate>Tue, 30 Sept 2024 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/simple-proof/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Beyond IID weights: sparse and low-rank Neural Networks are also Gaussian Processes</title>
       <link>https://thizirinait.github.io/publication/pseudo-iid/</link>
-      <pubDate>Tue, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://thizirinait.github.io/publication/pseudo-iid/</guid>
       <description></description>
     </item>
