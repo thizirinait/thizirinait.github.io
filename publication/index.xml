@@ -13,6 +13,21 @@
     </image>
 
     <item>
+      <title>Mind the Gap: a Spectral Analysis of Rank Collapse and Signal Propagation in Transformers</title>
+      <link>https://thizirinait.github.io/publication/spectral-analysis/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/spectral-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple proof for the almost sure convergence of the largest singular value of a product of Gaussian matrices</title>
+      <link>https://thizirinait.github.io/publication/simple-proof/</link>
+      <pubDate>Thu, 30 Sept 2024 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/simple-proof/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Beyond IID weights: low-rank and sparse Neural Networks are also Gaussian Processes</title>
       <link>https://thizirinait.github.io/publication/pseudo-iid/</link>
       <pubDate>Thu, 23 Oct 2023 00:00:00 +0000</pubDate>
