@@ -28,6 +28,14 @@
       <guid>https://thizirinait.github.io/publication/simple-proof/</guid>
       <description></description>
     </item>
+
+    <item>
+      <title>CARMIL: Context-Aware Regularization on Multiple Instance Learning models for Whole Slide Images</title>
+      <link>https://thizirinait.github.io/publication/carmil/</link>
+      <pubDate>Tue, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://thizirinait.github.io/publication/carmil/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond IID weights: sparse and low-rank Neural Networks are also Gaussian Processes</title>
